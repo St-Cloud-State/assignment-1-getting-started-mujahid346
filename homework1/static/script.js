@@ -41,3 +41,4 @@ function updateStatus() {
         document.getElementById("update_result").innerText = data.message;
     });
 }
+
